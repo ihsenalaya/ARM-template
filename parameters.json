@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_vm3_name": {
+            "value": null
+        },
+        "virtualMachines_myVM1_name": {
+            "value": null
+        },
+        "virtualMachines_myVM2_name": {
+            "value": null
+        },
+        "virtualNetworks_myVM1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm328_name": {
+            "value": null
+        },
+        "bastionHosts_myBastionHost_name": {
+            "value": null
+        },
+        "networkInterfaces_myvm1276_name": {
+            "value": null
+        },
+        "networkInterfaces_myvm2520_name": {
+            "value": null
+        },
+        "networkSecurityGroups_myNSG_name": {
+            "value": null
+        },
+        "loadBalancers_myLoadBalancer_name": {
+            "value": null
+        },
+        "publicIPAddresses_myPublicIP_name": {
+            "value": null
+        },
+        "publicIPAddresses_myBastionHost_name": {
+            "value": null
+        },
+        "availabilitySets_myAvailabilitySet_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_vm3_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_myvm1_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_myvm2_name": {
+            "value": null
+        }
+    }
+}
